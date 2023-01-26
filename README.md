@@ -27,3 +27,12 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### yg di kerjakan hanya bagian TheWelcome.vue
+
+Thewelcome.vue
+login.js
+
+### keterangan
+
+masih sebuah sample bukan boilerplate..
